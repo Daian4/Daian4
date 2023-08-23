@@ -5,7 +5,6 @@
 - 💻 Desenvolvedora back-end
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando JavaScript e Node.js
-- 😄 Pronouns: ela/dela
 - ⚡ Fun fact: Cearence, amo praia e andar de bicicleta pela cidade.
 ```
 
