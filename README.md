@@ -1,9 +1,13 @@
 ### Oiii! Eu sou a Daiana Lima
 ## Hello, Devs!!
 
+```sh
+- 💻 Desenvolvedora back-end
+- 📚 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando JavaScript e Node.js
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: Cearence, amo praia e andar de bicicleta pela cidade.
+```
 
 <div>
 <a href="https://github.com/Daian4">
