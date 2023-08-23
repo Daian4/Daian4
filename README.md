@@ -21,6 +21,7 @@
   <img align="center" alt="Dai-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Dai-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Dai-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="right" alt="Dai-gif" height="250" src="https://cdn.discordapp.com/attachments/1141076107391672431/1143698618730160168/WhatsApp_Video_2023-08-22_at_21.01.54.gif">
 </div>
   
   ##
