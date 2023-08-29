@@ -8,12 +8,6 @@
 - ⚡ Fun fact: Cearence, amo praia e andar de bicicleta pela cidade.
 ```
 
-<div>
-<a href="https://github.com/Daian4">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daian4&layout=compact&langs_count=7&theme=highcontrast"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Daian4&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Dai-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dai-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
