@@ -15,7 +15,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daian4&show_icons=true&theme=dracula"/>
 </div>
 
-## Habilidades técnicas
+## Habilidades técnicas:
 <div style="display: inline_block"><br>
   <img align="center" alt="Dai-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dai-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
