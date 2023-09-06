@@ -10,10 +10,6 @@
 - ⚡ Fun fact: Cearence, amo praia e andar de bicicleta pela cidade.
 ```
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daian4&layout=compact&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daian4&show_icons=true&theme=dracula"/>
-</div>
 
 ## Habilidades técnicas:
 <div style="display: inline_block"><br>
