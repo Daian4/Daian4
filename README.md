@@ -6,7 +6,7 @@
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 - 🎓 Formada em Estética
 - ✨ Em transição de Carreira
-- 🌱 Atualmente estudando JavaScript e Node.js
+- 🌱 Tenho conhecimento em programação com Nodejs, HTML, CSS, Javascript, API RESTful, Express, postgreSQL (banco de dados), versionamento de código com Git/GitHub
 - ⚡ Fun fact: Cearence, amo praia e andar de bicicleta pela cidade.
 ```
 
