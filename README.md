@@ -2,11 +2,11 @@
 ## Hello, Devs!!
 
 ```sh
-- 💻 Desenvolvedora back-end
-- 📚 Cursando Análise e Desenvolvimento de Sistemas
-- 🎓 Formada em Estética
-- ✨ Em transição de Carreira
+- 💻 Desenvolvedora Full Stack
+- 🗃️ Estudei Desenvolvimento de Software com foco em Back-end na Cubos Academy
+- 📚 Cursando Análise e Desenvolvimento de Sistemas na Uniasselvi
 - 🌱 Tenho conhecimento em programação com Nodejs, HTML, CSS, Javascript, API RESTful, Express, postgreSQL (banco de dados), versionamento de código com Git/GitHub
+- 🎓 Formada em Estética
 - ⚡ Fun fact: Cearence, amo praia e andar de bicicleta pela cidade.
 ```
 
@@ -21,18 +21,21 @@
   <img align="center" alt="Dai-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dai-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dai-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dai-NodeJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Dai-NodeJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="Dai-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
   <img align="center" alt="Dai-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Dai-Postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Dai-Oracle" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Dai-Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
+  <img align="center" alt="Dai-Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   <img align="center" alt="Dai-NPM" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Dai-vscode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="right" alt="Dai-gif" height="200" src="https://cdn.discordapp.com/attachments/1141076107391672431/1143698618730160168/WhatsApp_Video_2023-08-22_at_21.01.54.gif">
 </div>
   
   ##
+  ## Atualmente estudando:
+ <div style="display: inline_block"><br>
+     <img align="center" alt="Dai-vuejs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
+  </div>
 
  ## Contato:
 <div> 
