@@ -2,7 +2,7 @@
 ## Hello, Devs!!
 
 ```sh
-- 👩‍💼 Trabalho como analista de negócios
+- 👩‍💼 Trabalho na área de DevOps
 - 💻 Desenvolvedora Full Stack nas horas vagas
 - 🗃️ Estudei Desenvolvimento de Software com foco em Back-end na Cubos Academy
 - 📚 Cursando Análise e Desenvolvimento de Sistemas na Uniasselvi
