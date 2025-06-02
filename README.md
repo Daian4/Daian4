@@ -7,7 +7,6 @@
 - 🗃️ Estudei Desenvolvimento de Software com foco em Back-end na Cubos Academy
 - 📚 Cursando Análise e Desenvolvimento de Sistemas na Uniasselvi
 - 🌱 Tenho conhecimento em programação com Nodejs, HTML, CSS, Javascript, API RESTful, Express, postgreSQL (banco de dados), versionamento de código com Git/GitHub
-- 🎓 Formada em Estética
 - ⚡ Fun fact: Cearence, amo praia e andar de bicicleta pela cidade.
 ```
 
